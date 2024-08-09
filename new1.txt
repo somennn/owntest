@@ -2,7 +2,7 @@
 //https://152.32.170.60/jyj/0/raw/branch/main/0.json 
 //https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06
 	//"spider": "./jar/cc.jar",
-	"spider": "./jar/XYQ1.jar",
+	"spider": "https://gitee.com/hlcodes/owntest/raw/master/jar/XYQ1.jar",
 //"spider": "./jar/fix.jar",
 //"spider": "./jar/0.jar",
 //"spider": "./jar/fan.jar",
